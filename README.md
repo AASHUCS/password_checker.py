@@ -21,3 +21,4 @@ A beginner-friendly password strength checker built in Python using only basic c
 1. Install Python 3
 2. Download `password_checker.py`
 3. Run in terminal:
+
